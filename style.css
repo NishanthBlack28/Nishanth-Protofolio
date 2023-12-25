@@ -3,7 +3,7 @@ body{
 }
 .banner{
   padding:250px 0;
-  background-image: url('bg.jpeg');
+  background-image: url('img/bg.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
 }
